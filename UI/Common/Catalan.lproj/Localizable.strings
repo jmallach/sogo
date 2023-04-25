@@ -1,17 +1,17 @@
 /* this file is in UTF-8 format! */
 
 /* toolbars */
-"Save" = "Desar";
-"Close" = "Tancar";
-"Edit User Rights" = "Modificar permisos";
+"Save" = "Desa";
+"Close" = "Tanca";
+"Edit User Rights" = "Modifica els permisos";
 "Home" = "Inici";
 "Calendar" = "Calendari";
 "Address Book"  = "Llibreta d'adreces";
 "Mail" = "Correu";
 "Preferences" = "Preferències";
 "Administration" = "Administració";
-"Disconnect" = "Tancar sessió";
-"Toggle Menu" = "Canviar menú";
+"Disconnect" = "Tanca la sessió";
+"Toggle Menu" = "Commuta el menú";
 "Right Administration" = "Administració de permisos";
 "Log Console (dev.)" = "Registre d'activitat";
 "User" = "Usuari";
@@ -20,27 +20,27 @@
 "noJavascriptError" = "SOGo requereix Javascript. Si us plau, activeu Javascript en el navegador.";
 "noJavascriptRetry" = "Torneu-ho a intentar";
 "Owner" = "Propietari";
-"Publish the Free/Busy information" = "Publicar informació de disponibilitat";
-"Add..." = "Afegir...";
-"Remove" = "Esborrar";
-"Subscribe User" = "Subscriure usuari";
+"Publish the Free/Busy information" = "Publica la informació de disponibilitat";
+"Add..." = "Afegeix…";
+"Remove" = "Suprimeix";
+"Subscribe User" = "Subscriu l'usuari";
 "Any Authenticated User" = "Qualsevol usuari autenticat";
 "Public Access" = "Accés públic";
 "Any user not listed above" = "Qualsevol usuari no llistat més amunt";
 "Anybody accessing this resource from the public area" = "Qualsevol amb accés a aquest recurs des de l'àrea pública";
 "Sorry, the user rights can not be configured for that object." = "Els permisos d'accés no es poden configurar per a aquest objecte.";
 "Any user with an account on this system will be able to access your mailbox \"%{0}\". Are you certain you trust them all?"
-     = "Qualsevol usuari amb un compte en el sistema tindrà accés a la seua bústia de correu \"%{0}\". Està segur de voler donar accés a qualsevol usuari en el sistema? ";
+     = "Qualsevol usuari amb un compte en el sistema tindrà accés a la seua bústia de correu \"%{0}\". Esteu segur de voler donar accés a qualsevol usuari en el sistema? ";
 "Any user with an account on this system will be able to access your calendar \"%{0}\". Are you certain you trust them all?"
-     = "Qualsevol altre usuari amb un compte al sistema serà capaç d'accedir al seu calendari \"%{0}\". ¿Està vostè segur de voler permetre aço?";
+     = "Qualsevol altre usuari amb un compte al sistema serà capaç d'accedir al seu calendari \"%{0}\". Esteu vostè segur de voler permetre açò?";
 "Potentially anyone on the Internet will be able to access your calendar \"%{0}\", even if they do not have an account on this system. Is this information suitable for the public Internet?"
      = "Potencialment, qualsevol usuari d'Internet podrà accedir al seu calendari \"% {0}\", encara que no tinga un compte en aquest sistema. Aquesta informació és adequada per publicar-la en Internet?";
 "Any user with an account on this system will be able to access your address book \"%{0}\". Are you certain you trust them all?"
-     = "Qualsevol usuari amb un compte en el sistema tindrà accés al seu calendari \"%{0}\". Està segur de voler donar accés a qualsevol usuari en el sistema? ";
+     = "Qualsevol usuari amb un compte en el sistema tindrà accés al seu calendari \"%{0}\". Esteu segur de voler donar accés a qualsevol usuari en el sistema?";
 "Potentially anyone on the Internet will be able to access your address book \"%{0}\", even if they do not have an account on this system. Is this information suitable for the public Internet?"
-     = "Qualsevol usuari amb un compte en el sistema tindrà accés a la seua llibreta d'adreces \"%{0}\". Està segur de voler donar accés a qualsevol usuari en el sistema? ";
-"Give Access" = "Donar accés";
-"Keep Private" = "Mantenir en privat";
+     = "Qualsevol usuari amb un compte en el sistema tindrà accés a la seua llibreta d'adreces \"%{0}\". Esteu segur de voler donar accés a qualsevol usuari en el sistema?";
+"Give Access" = "Dona accés";
+"Keep Private" = "Manteni en privat";
 
 /* generic.js */
 "Unable to subscribe to that folder!"
@@ -72,7 +72,7 @@
 
 /* common buttons */
 "OK" = "D'acord";
-"Cancel" = "Cancel·lar";
+"Cancel" = "Cancel·la";
 "Yes" = "Sí";
 "No" = "No";
 
@@ -88,8 +88,8 @@
 "Start" = "Inici";
 "Due Date" = "Data de venciment";
 "Location" = "Lloc";
-"Snooze" = "Ajorna";
-"Snooze for " = "Posposar ";
+"Snooze" = "Posposa";
+"Snooze for " = "Posposa durant ";
 "5 minutes" = "5 minuts";
 "10 minutes" = "10 minuts";
 "15 minutes" = "15 minuts";
@@ -113,10 +113,10 @@
 "a2_Friday" = "dv";
 "a2_Saturday" = "ds";
 "Access Rights" = "Drets d'accés";
-"Add User" = "Afegir usuari";
-"Loading" = "Carregant";
-"No such user." = "No existeix aquest usuari";
-"You cannot (un)subscribe to a folder that you own!" = "No es pot (des)subscriure a una carpeta pròpia!";
+"Add User" = "Afegeix l'usuari";
+"Loading" = "S'està carregant";
+"No such user." = "No existeix aquest usuari.";
+"You cannot (un)subscribe to a folder that you own!" = "No es pot (de)subscriure a una carpeta pròpia!";
 
 /* SMIME Certificate field */
 "S/MIME Certificate" = "Certificat S/MIME";
@@ -138,7 +138,7 @@
 "Wrong username or password." = "Usuari o contrasenya incorrectes.";
 
 /* Error message displayed bellow search field when the search string has less than the required number of characters */
-"Enter at least %{minimumSearchLength} characters" = "Introduir almenys %{minimumSearchLength} caràcters";
+"Enter at least %{minimumSearchLength} characters" = "Introduïu almenys %{minimumSearchLength} caràcters";
 
 /* Error message displayed when a file upload exceeds WOMaxUploadSize */
 "File size upload limit reached" = "S'ha superat la mida màxima de càrrega del fitxer";
@@ -147,7 +147,7 @@
 "An error occured, please try again." = "S'ha produït un error, torneu-ho a provar.";
 
 /* Open datepicker */
-"Open Calendar" = "Obrir Calendari";
+"Open Calendar" = "Obre el calendari";
 
 /* Toggle visibility (ex: mail account in left navigation menu) */
 "Toggle visibility" = "Commuta la visibilitat";
@@ -161,7 +161,7 @@
 "Toggle range of items" = "Activa/Desactiva llista d'ítems";
 
 /* Question mark shows list of hotkeys */
-"Show or hide this help" = "Mostrar o amagar aquesta ajuda";
+"Show or hide this help" = "Mostra o amaga aquesta ajuda";
 
 /* Space key */
 "key_space" = "space";
@@ -197,19 +197,19 @@
 "hotkey_search" = "s";
 
 /* Hotkey description to select next list item */
-"View next item" = "Mostrar següent element";
+"View next item" = "Mostra l'element següent";
 
 /* Hotkey description to select previous list item */
-"View previous item" = "Mostrar element anterior";
+"View previous item" = "Mostra l'element anterior";
 
 /* Hotkey description to add next list item to selection */
-"Add next item to selection" = "Afegir el següent element a la selecció";
+"Add next item to selection" = "Afegeix el següent element a la selecció";
 
 /* Hotkey description to add previous list item to selection */
-"Add previous item to selection" = "Afegir l'element anterior a la selecció";
+"Add previous item to selection" = "Afegeix l'element anterior a la selecció";
 
 /* Hotkey description to move backward in current view */
-"Move backward" = "Retrocedir";
+"Move backward" = "Retrocedeix";
 
 /* Hotkey description to move forward in current view */
-"Move forward" = "Avançar";
+"Move forward" = "Avança";

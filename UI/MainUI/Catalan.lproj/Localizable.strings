@@ -1,11 +1,11 @@
 /* this file is in UTF-8 format! */
 
 "title" = "SOGo";
-"Username" = "Usuari";
+"Username" = "Nom d'usuari";
 "Password" = "Contrasenya";
 "Domain" = "Domini";
-"Remember username" = "recordar usuari";
-"Connect" = "Connectar";
+"Remember username" = "Recorda'm l'usuari";
+"Connect" = "Connecta";
 
 /* Appears while authentication is in progress */
 "Authenticating" = "S'està autenticant";
@@ -16,20 +16,20 @@
 "Authentication Failed" = "L'autenticació ha fallat";
 "Wrong username or password." = "Usuari o contrasenya incorrectes.";
 "Retry" = "Torneu-ho a intentar";
-"Login failed due to unhandled error case:" = "Connexió fallida a causa d'un error inesperat: ";
-"cookiesNotEnabled" = "No us hi podeu connectar perquè les galetes estan deshabilitades. Habiliteu les galetes en el navegador i torneu a intentar-ho.";
-"browserNotCompatible" = "Aquesta versió del navegador no és compatible amb el sistema. Us recomanem l'ús de Firefox. Feu clic en l'enllaç següent per descarregar-vos la versió más recent d'aquest navegador.";
-"alternativeBrowsers" = "També podeu utilitza un d'aquests navegadors compatibles: ";
-"alternativeBrowserSafari" = "Safari.";
+"Login failed due to unhandled error case:" = "Connexió fallida a causa d'un error no gestionat:";
+"cookiesNotEnabled" = "No us hi podeu connectar perquè les galetes estan inhabilitades. Habiliteu les galetes en el navegador i torneu a intentar-ho.";
+"browserNotCompatible" = "Aquesta versió del navegador no és compatible amb el sistema. Us recomanem l'ús del Firefox. Feu clic en l'enllaç següent per a baixar la versió más recent d'aquest navegador.";
+"alternativeBrowsers" = "També podeu utilitzar un d'aquests navegadors compatibles";
+"alternativeBrowserSafari" = "També podeu utilitzar el Safari";
 
 /* 2FA */
 "Verification Code" = "Codi de verificació";
-"Enter the 6-digit verification code from your TOTP application." = "Introdueix el codi de verificació de 6 dígits de l'aplicació Google Authenticator.";
-"You provided an invalid TOTP key." = "Has proporcionat una clau de Google Authenticator invàlida.";
+"Enter the 6-digit verification code from your TOTP application." = "Introduiu el codi de verificació de 6 dígits de la vostra aplicació TOTP.";
+"You provided an invalid TOTP key." = "Heu proporcionat una clau TOTP invàlida.";
 
-"Download" = "Descàrrega";
+"Download" = "Baixa";
 "Language" = "Llengua";
-"choose" = "Triar ...";
+"choose" = "Tria…";
 "Arabic" = "العربية";
 "Basque" = "Euskara";
 "Bosnian" = "Bosanski";
@@ -92,7 +92,7 @@
 "hours" = "hores";
 "minutes" = "minuts";
 "seconds" = "segons";
-"Password change failed" = "Canvi de contrasenya sense èxit";
+"Password change failed" = "Ha fallat el canvi de contrasenya";
 "Password change failed - Permission denied" = "Canvi de contrasenya no vàlid - Permís denegat";
 "Password change failed - Insufficient password quality" = "Canvi de contrasenya no vàlid - Contrasenya massa simple";
 "Password change failed - Password is too short" = "Canvi de contrasenya no vàlid - Contrasenya massa curta";
@@ -104,8 +104,8 @@
 "Unhandled HTTP error code: %{0}" = "Error HTTP no previst. Codi: %{0}";
 "New password" = "Contrasenya nova";
 "Confirmation" = "Confirmació";
-"Cancel" = "Cancel·lar";
-"Please wait..." = "Si us plau, espereu-vos...";
-"Close" = "Tancar";
+"Cancel" = "Cancel·la";
+"Please wait..." = "Espereu…";
+"Close" = "Tanca";
 "Missing search parameter" = "Falten paràmetres de cerca";
 "Missing type parameter" = "Falta el paràmetre de tipus";
