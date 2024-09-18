@@ -74,6 +74,7 @@ static const NSString *kDisableSharingCalendar = @"Calendar";
 
 - (BOOL) uixDebugEnabled;
 - (BOOL) easDebugEnabled;
+- (BOOL) openIdDebugEnabled;
 - (BOOL) tnefDecoderDebugEnabled;
 - (BOOL) xsrfValidationEnabled;
 
@@ -86,10 +87,20 @@ NSComparisonResult languageSort(id el1, id el2, void *context);
 - (NSString *) loginSuffix;
 
 - (NSString *) authenticationType;
+- (BOOL) isSsoUsed;
 - (NSString *) davAuthenticationType;
 
 - (NSString *) CASServiceURL;
 - (BOOL) CASLogoutEnabled;
+
+- (NSString *) openIdConfigUrl;
+- (NSString *) openIdScope;
+- (NSString *) openIdClient;
+- (NSString *) openIdClientSecret;
+- (NSString *) openIdEmailParam;
+- (BOOL) openIdEnableRefreshToken;
+- (BOOL) openIdLogoutEnabled;
+- (int) openIdTokenCheckInterval;
 
 - (NSString *) SAML2PrivateKeyLocation;
 - (NSString *) SAML2CertificateLocation;
